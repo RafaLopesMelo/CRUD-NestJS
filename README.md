@@ -42,7 +42,7 @@ $ npm run start:dev
 $ npm run start:prod
 ```
 
-## ❗️ &nbsp;&nbsp; Fique atualizado
+## ❗️ &nbsp; Fique atualizado
 
 Abaixo estão as possíveis formas de sempre se manter atualizado em relação às novidades do NestJS.
 
