@@ -9,7 +9,7 @@
   <a href="https://www.npmjs.com/~nestjscore"><img src="https://img.shields.io/npm/l/@nestjs/core.svg" alt="Package License" /></a>
 </p>
 
-## 🐈 Introdução
+## 🐈 &nbsp;&nbsp; Introdução
 
 Esta é uma aplicação com um simples CRUD dentro do framework NestJS, o banco de dados utilizado é o SQLite3 e para manpulá-lo utilizei o TypeORM. O Nest possui fortes influências do Angular, trabalha principalmente com TypeScript e utiliza Decorators para a maioria de suas funcionalidades.
 
@@ -21,7 +21,7 @@ Em relação ao roteamento, nada de muito novo. O Nest abusa de Decorators junta
 
 A integração com o TypeORM é bastante otimizada e acontece de forma bastante natural e prática, visto que o Nest posui uma biblioteca facilitadora para trabalhar com este ORM. Clique [aqui](https://github.com/nestjs/typeorm) para ver.
 
-## 💾 Instalação
+## 💾 &nbsp;&nbsp; Instalação
 
 Basta instalar as dependências do projeto: 
 
@@ -29,7 +29,7 @@ Basta instalar as dependências do projeto:
 $ npm install
 ```
 
-## 💿 Rodando o App
+## 💿 &nbsp;&nbsp; Rodando o App
 
 ```bash
 # Em desenvolvimento
@@ -42,7 +42,7 @@ $ npm run start:dev
 $ npm run start:prod
 ```
 
-## ❗️ Fique atualizado
+## ❗️ &nbsp;&nbsp; Fique atualizado
 
 Abaixo estão as possíveis formas de sempre se manter atualizado em relação às novidades do NestJS.
 
@@ -50,11 +50,11 @@ Abaixo estão as possíveis formas de sempre se manter atualizado em relação �
 - Website - [https://nestjs.com](https://nestjs.com/)
 - Twitter - [@nestframework](https://twitter.com/nestframework)
 
-## 📜 Licença
+## 📜 &nbsp;&nbsp; Licença
 
  Nest possui a licença MIT
  
-## 💻 Conhecimentos Adquiridos:
+## 💻 &nbsp;&nbsp; Conhecimentos Adquiridos:
 
 - Maior contato e aprendizado com o TypeScript
 - Entendimento de conceitos como Constructor e Decorators
